@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Juan Gustavo Daza Martínez",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
-        "title": "jgdm",
+        "title": "JGDM",
         "has_nav": true,
         "nav_links": [
             {
